@@ -1,6 +1,6 @@
-download all transcriptions of youtube channel videos without copy each video link
+#  download all transcriptions of youtube channel videos without copy each video link
 
-# how to bulk download youtube video transcriptions from a channel or playlist
+ how to bulk download youtube video transcriptions from a channel or playlist
 
 
 # input 
