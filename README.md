@@ -43,12 +43,12 @@ https://github.com/nick2580/BlogBot/blob/master/blogBot.py
 https://github.com/wanghaisheng/Youtube_ADs_AI_Detective
 
 
-techstack
+## techstack
 
 1. yt-dlp
 2. YouTubeTranscriptApi
 3. jianying
-4.openai whisper
+4. openai whisper
 
 
 
