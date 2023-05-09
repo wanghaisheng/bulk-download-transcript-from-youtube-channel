@@ -21,10 +21,11 @@ defualt:srt
 
 
 
-# output
+# output to subtitles 
 
 language specific srt or txt file,
 
+what if there is none auto subtitle or mannually uploaded subtitles
 
 ## output to ebook pdf
 https://github.com/wanghaisheng/top_youtube_creator_transcript_to_ebook
