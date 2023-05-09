@@ -47,4 +47,9 @@ techstack
 
 1. yt-dlp
 2. YouTubeTranscriptApi
-3. 
+3. jianying
+4.openai whisper
+
+
+
+
